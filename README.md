@@ -1,23 +1,23 @@
 ---
 layout: home
-title: Just the Class
+title: Vex Robotics
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: Vex Robotics
 ---
 
-# Just the Class
+# Vex Robotics
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Vex Robotics is a course website developed for the purpose of educating high school students about Robotics, especially with the use of the Vex Platform. In addition to having plain web pages and files, it contains many resources as videos and activity guide. Here is some pages that our website has:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+[VEX Robotics](https://www.vexrobotics.com/) is educational robotics for everyone. VEX solutions span all levels of both formal and informal education with accessible, scalable, and affordable solutions. Beyond science and engineering principles, VEX encourages creativity, teamwork, leadership, and problem solving among groups. Vex Robotics website features:
 
 - automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
