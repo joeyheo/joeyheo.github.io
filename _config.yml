@@ -33,6 +33,7 @@ aux_links:
   Joey Heo Personal Website:
     - 'https://www.joeyheo.com/'
 footer_content:
+    - 'This site has been created and developed by Joey Heo; All Rights are reserved by Joey Heo'
 
 # Collections for website data
 collections:
